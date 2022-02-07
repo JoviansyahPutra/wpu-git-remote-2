@@ -10,6 +10,7 @@
 
 <body>
     <h1>Belajar GIT Remote ke-2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nesciunt libero dicta ducimus sit, similique molestias quo. Voluptates earum iusto veritatis saepe, voluptatum numquam quasi id, doloribus laboriosam blanditiis corporis.</p>
 
 </body>
 
